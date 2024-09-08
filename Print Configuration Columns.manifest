@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Donutnz",
+	"description":	{
+		"":	"Simply prints all Configurations column names to consle."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
