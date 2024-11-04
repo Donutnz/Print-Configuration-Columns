@@ -30,7 +30,7 @@ def run(context):
 		app.log("Configurations Columns: ")
 		
 		if formatAsHeaders:
-			app.log(", ".join([col.title for col in topTable.columns]))
+			app.log(",".join([col.title for col in topTable.columns]))
 		else:
 			for col in topTable.columns:
 				#app.log("Column: {}: {}".format(col.objectType, col.title)) # Include types
